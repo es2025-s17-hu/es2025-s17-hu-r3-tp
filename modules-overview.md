@@ -4,7 +4,7 @@
 
 Submitted by: [Skills IT](https://skillsit.hu)
 
-![DineEase](assets/images/DineEase.png)
+![DineEase](assets/images/dineease.png)
 
 ## Introduction:
 

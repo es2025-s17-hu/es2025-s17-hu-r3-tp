@@ -4,7 +4,7 @@
 
 ### Budapest, Hungary
 
-![DineEase](assets/images/DineEase.png)
+![DineEase](assets/images/dineease.png)
 
 ## Schedule
 
