@@ -22,7 +22,7 @@ The user should stay logged in until the browser is restarted or the page is ref
 
 ### Table Selection Screen
 
-The user can select a table from the list of available tables. The tables should be displayed in a visual map according to their `x`, `y` coordinates and `width`, `height` dimensions. Tables where there is an open order are displayed in a different colour. Tables where there is an open order are displayed in a different colour. After selecting a table, the user is redirected to the ordering screen.
+The user can select a table from the list of available tables. The tables should be displayed in a visual map according to their `x`, `y` coordinates and `width`, `height` dimensions. Tables where there is an open order are displayed in a different colour. After selecting a table, the user is redirected to the ordering screen.
 
 ![Table select page](assets/module-e/design/dineease-table-select.png)
 
