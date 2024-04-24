@@ -35,9 +35,10 @@
 
 - 08:00-08:30 Arrival at the competition site
 - 08:30-09:00 Opening meeting
-- 09:00-12:00 Module C- Backend and Admin
+- 09:00-10:30 Module C - Backend
+- 10:30-12:00 Module D - Backend and Admin
 - 12:00-13:00 Lunch break
-- 13:00-16:00 Module D - Frontend
+- 13:00-16:00 Module E - Frontend
 - 16:00-16:15 Closing meeting
 - 16:30-19:00 Marking
 
