@@ -1,0 +1,16 @@
+{
+  "clientName": "Thunder Client",
+  "environmentName": "(Local Env)",
+  "environmentId": "c741437a-5a2c-47b0-affc-699b0037dd8a",
+  "dateExported": "2024-04-25T06:11:24.008Z",
+  "version": "1.2",
+  "global": true,
+  "local": true,
+  "variables": [
+    {
+      "name": "baseUrl",
+      "value": "https://module-c-s-solution.dineease.com/api/v1"
+    }
+  ],
+  "ref": "8DA-9nEhyaUTQz4e0REXZXrqpr3JNi80dzjmtKMqm4QmOQFrOezurfVQTABN6O3U"
+}
